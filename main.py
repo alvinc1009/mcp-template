@@ -1,4 +1,3 @@
-# main.py
 from fastapi import FastAPI, Header, Response, Request
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
